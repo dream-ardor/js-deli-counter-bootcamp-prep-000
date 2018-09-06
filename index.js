@@ -32,7 +32,7 @@ function takeANumber(line, name){
 }
 takeANumber(katzDeli, "Ada")
 takeANumber(katzDeli, "Grace")
-takeANumber(katzDeli, "Kent")
+takeANumber(katzDeli, "Steven")
 currentLine(katzDeli);
 nowServing(katzDeli);
 takeANumber(katzDeli, "Steven"); 
